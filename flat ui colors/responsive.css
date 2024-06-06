@@ -1,0 +1,17 @@
+@media screen and (max-width:1024px){
+
+
+    .mini_box{
+        width: 100%;
+    }
+    
+}
+
+@media screen and (max-width:600px){
+
+
+    .mini_box{
+        width: 50%;
+    }
+    
+}
